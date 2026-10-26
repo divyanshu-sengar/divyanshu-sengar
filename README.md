@@ -20,20 +20,82 @@
 </a>
 
 </div>
-01 — ABOUT ME
+═══════════════════════════════════════════════════════════════════════
+                 D I V Y A N S H U   S E N G A R
+             ✦ SOFTWARE DEVELOPER • PROGRAMMER • CREATOR ✦
+═══════════════════════════════════════════════════════════════════════
 
-Hey! I'm Divyanshu Sengar 👋
+██████╗      ██████╗ ██████╗ ███████╗
+██╔══██╗    ██╔═══██╗██╔══██╗██╔════╝
+██║  ██║    ██║   ██║██║  ██║█████╗
+██║  ██║    ██║   ██║██║  ██║██╔══╝
+██████╔╝    ╚██████╔╝██████╔╝███████╗
+╚═════╝      ╚═════╝ ╚═════╝ ╚══════╝
 
-I'm a BCA student passionate about Python development, software engineering, and creating practical technology solutions.
+┌───────────────────────────────────────────────────────────────┐
+│                                                               │
+│       "TURNING IDEAS INTO REALITY, ONE LINE AT A TIME."        │
+│                                                               │
+│                    CODE • BUILD • INNOVATE                    │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
 
-I enjoy learning how software works, solving problems through code, and turning concepts into working projects.
+░▒▓█▓▒░ DIGITAL MIND • CREATIVE SOUL • CODING PASSION ░▒▓█▓▒░
 
-🐍 Exploring Python and software development
-🧠 Improving my programming and problem-solving skills
-🛠️ Building practical projects to strengthen my fundamentals
-🚀 Working toward becoming a better software engineer
-🤝 Open to learning, collaboration, and open-source contributions
-02 — TECH STACK
+
+╭────────────────────────── ABOUT ME ──────────────────────────╮
+│                                                               │
+│  Hello, World!                                                │
+│                                                               │
+│  I am Divyanshu Sengar, a developer passionate about          │
+│  technology, programming, problem-solving, and building       │
+│  meaningful digital experiences.                              │
+│                                                               │
+│  My mission is to learn, create, experiment, and grow         │
+│  through every project and every line of code.                │
+│                                                               │
+╰───────────────────────────────────────────────────────────────╯
+
+
+┌──────────────────────── TECH UNIVERSE ────────────────────────┐
+│                                                               │
+│       < HTML />    { CSS }    [ JAVASCRIPT ]                  │
+│                                                               │
+│                # CODE > DEBUG $ BUILD                         │
+│                                                               │
+│       01001000 01000101 01001100 01001100 01001111             │
+│                                                               │
+│       while (learning) {                                      │
+│           create();                                           │
+│           improve();                                          │
+│           repeat();                                           │
+│       }                                                       │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+
+
+         ╔══════════════════════════════════╗
+         ║          MY GITHUB PROFILE       ║
+         ║                                  ║
+         ║   github.com/divyanshu-sengar    ║
+         ║                                  ║
+         ║      OPEN SOURCE • PROJECTS      ║
+         ║       LEARN • SHARE • GROW       ║
+         ╚══════════════════════════════════╝
+
+
+✦ ──────────────── THINK • CODE • CREATE ───────────────── ✦
+
+
+       "THE BEST WAY TO PREDICT THE FUTURE
+                IS TO BUILD IT."
+
+
+                 © DIVYANSHU SENGAR
+                          2026
+
+═══════════════════════════════════════════════════════════════════════
+
 
 <div align="center">
 
