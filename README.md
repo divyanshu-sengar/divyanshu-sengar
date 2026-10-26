@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=DIVYANSHU%20SENGAR&fontSize=43&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=PYTHON%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=60&descSize=13&color=0:080B16,50:172554,100:0891B2" alt="Divyanshu Sengar developer banner"/>
+<img width="100%" src="C:\Users\divyanshu sengar\Downloads\cover.png"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=800&color=67E8F9&center=true&vCenter=true&width=650&lines=Hello%2C+World!+%F0%9F%91%8B;BCA+Student+%7C+Python+Developer;Learning+to+build+better+software;Turning+ideas+into+working+code." alt="Animated introduction"/>
+<img src=C:\Users\divyanshu sengar\Downloads\cover.png/>
 
 <br/>
 
