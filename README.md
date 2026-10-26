@@ -2,7 +2,7 @@
 
 <img width="100%" src="C:\Users\divyanshu sengar\Downloads\cover.png"/>
 
-<img src=C:\Users\divyanshu sengar\Downloads\cover.png/>
+
 
 <br/>
 
