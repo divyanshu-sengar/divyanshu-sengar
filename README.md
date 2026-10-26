@@ -38,95 +38,9 @@
                                                                  
 ═════════════════════════════════════════════════════════════════════════════════════════════════════════
 
-██████╗      ██████╗ ██████╗ ███████╗
-██╔══██╗    ██╔═══██╗██╔══██╗██╔════╝
-██║  ██║    ██║   ██║██║  ██║█████╗
-██║  ██║    ██║   ██║██║  ██║██╔══╝
-██████╔╝    ╚██████╔╝██████╔╝███████╗
-╚═════╝      ╚═════╝ ╚═════╝ ╚══════╝
-
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│       "TURNING IDEAS INTO REALITY, ONE LINE AT A TIME."        │
-│                                                               │
-│                    CODE • BUILD • INNOVATE                    │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-
-░▒▓█▓▒░ DIGITAL MIND • CREATIVE SOUL • CODING PASSION ░▒▓█▓▒░
-
-
-╭────────────────────────── ABOUT ME ──────────────────────────╮
-│                                                               │
-│  Hello, World!                                                │
-│                                                               │
-│  I am Divyanshu Sengar, a developer passionate about          │
-│  technology, programming, problem-solving, and building       │
-│  meaningful digital experiences.                              │
-│                                                               │
-│  My mission is to learn, create, experiment, and grow         │
-│  through every project and every line of code.                │
-│                                                               │
-╰───────────────────────────────────────────────────────────────╯
-
-
-┌──────────────────────── TECH UNIVERSE ────────────────────────┐
-│                                                               │
-│       < HTML />    { CSS }    [ JAVASCRIPT ]                  │
-│                                                               │
-│                # CODE > DEBUG $ BUILD                         │
-│                                                               │
-│       01001000 01000101 01001100 01001100 01001111             │
-│                                                               │
-│       while (learning) {                                      │
-│           create();                                           │
-│           improve();                                          │
-│           repeat();                                           │
-│       }                                                       │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-
-
-         ╔══════════════════════════════════╗
-         ║          MY GITHUB PROFILE       ║
-         ║                                  ║
-         ║   github.com/divyanshu-sengar    ║
-         ║                                  ║
-         ║      OPEN SOURCE • PROJECTS      ║
-         ║       LEARN • SHARE • GROW       ║
-         ╚══════════════════════════════════╝
-
-
-✦ ──────────────── THINK • CODE • CREATE ───────────────── ✦
-
-
-       "THE BEST WAY TO PREDICT THE FUTURE
-                IS TO BUILD IT."
-
-
-                 © DIVYANSHU SENGAR
-                          2026
-
-═══════════════════════════════════════════════════════════════════════
 ```
 
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Python and developer tools"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Python-Primary_Focus-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/divyanshu-sengar/Library-Management-System">
-<img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=divyanshu-sengar&repo=Library-Management-System&theme=tokyonight&hide_border=true&bg_color=080D18&title_color=67E8F9&icon_color=A78BFA&text_color=D1D5DB" alt="Library Management System project card"/>
-</a>
-
-</div>
 
 ## 📈 GitHub Contributions
 
