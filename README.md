@@ -20,6 +20,8 @@
 </a>
 
 </div>
+
+```text
 ═══════════════════════════════════════════════════════════════════════
                  D I V Y A N S H U   S E N G A R
              ✦ SOFTWARE DEVELOPER • PROGRAMMER • CREATOR ✦
@@ -95,7 +97,7 @@
                           2026
 
 ═══════════════════════════════════════════════════════════════════════
-
+```
 
 <div align="center">
 
@@ -107,10 +109,6 @@
 
 </div>
 
-I'll expand this section as I add more technologies and projects to my toolkit.
-
-03 — FEATURED PROJECT
-
 <div align="center">
 
 <a href="https://github.com/divyanshu-sengar/Library-Management-System">
@@ -118,20 +116,6 @@ I'll expand this section as I add more technologies and projects to my toolkit.
 </a>
 
 </div>
-
-📚 Library Management System
-
-A Python project focused on library management.
-
-Project goals
-
-Organize library-related records and operations.
-Practice programming fundamentals through a practical application.
-Improve code structure and software development skills.
-
-Explore the source code →
-
-04 — GITHUB ANALYTICS
 
 ## 📈 GitHub Contributions
 
@@ -144,24 +128,7 @@ Explore the source code →
 </div>
 
 
-
-
-05 — MY DEVELOPER PHILOSOPHY
-
 <div align="center">
-
-Write code to solve problems.
-
-Learn from every bug.
-
-Build something better every day.
-
-</div>
-
-06 — LET'S CONNECT
-
-<div align="center">
-
 Interested in my work? Explore my repositories and follow my journey as I continue learning and building.
 
 <a href="https://github.com/divyanshu-sengar">
