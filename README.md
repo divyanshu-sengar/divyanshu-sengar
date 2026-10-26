@@ -1,8 +1,14 @@
 <div align="center">
 
-<img width="100%" src="C:\Users\divyanshu sengar\Downloads\cover.png"/>
 
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/divyanshu-sengar/divyanshu-sengar/main/cover.png"
+    alt="Divyanshu Sengar Cover"
+    width="100%"
+  />
+</p>
 
 <br/>
 
